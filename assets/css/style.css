@@ -135,7 +135,7 @@ p {
 }
 .banner_outer::after{
     content: "";
-    background-image: url('../images/banner-background.jpg');
+    background-image: url('./images/banner-background.jpg');
     border-radius: 0 0 600px 0;
     width: 65%;
     height: 100%;
