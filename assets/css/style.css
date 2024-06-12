@@ -118,7 +118,7 @@ p {
     overflow: hidden;
 }
 .banner_outer::before{
-    content: "";
+    content: ""; 
     width: 65%;
     height: 100%;
     position: absolute;
