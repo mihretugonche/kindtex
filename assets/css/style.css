@@ -129,7 +129,7 @@ p {
     background: var(--e-global-color-white);   
 }
 .banner_outer::after{
-    content: "";
+    content: " ";
     background-image: url('./images/banner-background.jpg');
     border-radius: 0 0 600px 0;
     width: 65%;
