@@ -1,1 +1,1 @@
-# kindtex
+# kindtex Inc
